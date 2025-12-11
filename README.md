@@ -6,4 +6,4 @@ Desenvolvido como projeto por Pollyana Gonçalves para o Bootcamp de Fullstack d
 
 Como melhoria, acredito que seria interessante ter uma seção com o nome dos profissionais para que as pessoas possam acessar de forma organizada sua história, podendo filtrar por pessoa ou por região/país.
 
-4. O link para o GitHub Pages
+Link do github pages: https://pollyana-goncalves.github.io/web_project_homeland/
