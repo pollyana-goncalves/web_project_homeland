@@ -31,7 +31,8 @@
   display: block; /*Muda o tio de exibição para bloco (remove o espaçamento inline padrão
   )*/
   filter: grayscale(100%);
-  padding-top: 64px;
+  margin-top: 64px;
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.5);
 }
 
 @media screen and (max-width: 1024px) {

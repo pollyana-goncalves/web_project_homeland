@@ -2,8 +2,8 @@
   font-family: "Inter", Arial, sans-serif;
   display: flex;
   justify-content: center;
-  padding-top: 92px;
-  padding-bottom: 24px;
+  padding-top: 90px;
+  padding-bottom: 25px;
 }
 
 .footer__copy {
@@ -12,11 +12,11 @@
   margin: 0; /*remover todas as margens*/
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .footer__copy {
     padding-top: 88px;
   }
-}
+} */
 
 @media screen and (max-width: 544px) {
   .footer__copy {
